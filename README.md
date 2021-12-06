@@ -1,8 +1,6 @@
 Hi 👋
 I'm Patrick, a JavaScript/TypeScript engineer.
-I work at Rabobank as a frontend platform engineer.
-At work I mostly use Angular and TypeScript.
-For my side projects I like to switch things around. Most recently I've used Vue 3 (Composition API)
+I work at @Didomi as a senior software engineer.
 
 ## Currently learning
 
