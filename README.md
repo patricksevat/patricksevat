@@ -1,10 +1,8 @@
 Hi 👋
 I'm Patrick, a JavaScript/TypeScript engineer.
-I work at @Didomi as a senior software engineer.
+I work at @PostmanLabs as a Tech Lead.
 
 ## Currently learning
-
-- Advanced data structures and algorithms
 
 ## Some of my recommended content
 
@@ -17,6 +15,7 @@ I work at @Didomi as a senior software engineer.
 
 
 ### Pods 🎧
+- [Engineering Advice You Didn't Ask For](https://engineeringadvice.dev/)
 - [Frontend happy hour](https://frontendhappyhour.com/)
 - [DevInterrupted](https://devinterrupted.com/)
 - [Managing up](https://www.managingup.show/)
